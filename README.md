@@ -19,3 +19,5 @@ You have my permission to use this code and modify it without any limitation.
     -A way to disable struggling to go up
     -Full ceiling cling mechanic
     -Yote timer for jumps
+    
+# GODOT 3.2.4 ALREADY FIXES SLOPES WICH MEANS THIS PROJECT WILL BE LEFT WITHOUT UPDATES FOR A WHILE
