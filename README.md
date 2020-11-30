@@ -1,3 +1,6 @@
+# GODOT 3.2.4 ALREADY FIXES SLOPES WICH MEANS THIS PROJECT WILL BE LEFT WITHOUT UPDATES FOR A WHILE
+
+
 # FPS Character Controller  for Godot 3.2.3 mono
 This project was created with the only intention of making a character controller that doesn't slide on slopes but struggles to go up steep slopes AND is easier to go downhill.
 
@@ -19,5 +22,3 @@ You have my permission to use this code and modify it without any limitation.
     -A way to disable struggling to go up
     -Full ceiling cling mechanic
     -Yote timer for jumps
-    
-# GODOT 3.2.4 ALREADY FIXES SLOPES WICH MEANS THIS PROJECT WILL BE LEFT WITHOUT UPDATES FOR A WHILE
